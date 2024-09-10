@@ -107,7 +107,7 @@ lr_scheduler_args:
   step_size: 30000
   gamma: 0.5
 max_batch_frames: 50000
-max_batch_size: 2
+max_batch_size: 6
 dataset_size_key: 'lengths'
 val_with_vocoder: true
 val_check_interval: 2000
